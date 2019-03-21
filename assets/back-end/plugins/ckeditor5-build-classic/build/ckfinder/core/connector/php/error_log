@@ -1,0 +1,4 @@
+[01-May-2018 09:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'CKSource\CKFinder\CKFinder' not found in /home/u4539270/public_html/tgs-testing/assets/back-end/app/js/ckfinder/core/connector/php/connector.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/u4539270/public_html/tgs-testing/assets/back-end/app/js/ckfinder/core/connector/php/connector.php on line 18
